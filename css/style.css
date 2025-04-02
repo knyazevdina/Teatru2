@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+body{
+    margin: 0;
+    background-color: #b78d79;
+    font-family: "Poiret One", serif;
+    color: #f5e6f2;
+    font-size: 18px;
+    
+
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: "Lovers Quarrel", serif;
+    color:#F8D7DA ;
+    font-size: 65px;
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+}
+
+  main {
+    background-color: #3e2449;
+    margin-top: 0;
+}
+
+.content {
+    padding: 40px 100px;
+    color: #f9eaf3;
+    font-family: "Poiret One", serif;
+    font-size: 18px;
+}
+
+.content p {
+    text-indent: 50px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+  
+  strong {
+    color: #ffffff;
+  }
+  
+  em {
+    font-style: italic;
+  }
+  
+
+.content .highlight {
+    font-weight: bold;
+    color: white;
+}
+
+.content .highlight2 {
+    color: #f3d7a3;
+    font-weight: bold;
+}
+
+.highlight-box {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    padding: 2px 6px;
+    font-weight: lighter;
+}
+
+.footer {
+    text-align: center;
+    font-size: 18px;
+    color: #f9eaf3;
+    padding-bottom: 0%;
+}
+
+
+  
